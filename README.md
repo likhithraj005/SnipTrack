@@ -53,6 +53,11 @@ The Spring Boot application is deployed at: [https://url-shortener-sb-latest.onr
 ### Database
 PostgreSQL is hosted on the Neon Console.
 
+### Postman Documentation
+The API's complete documentation is available on Postman. You can explore all endpoints, their request/response formats, and examples for better integration and testing.
+
+[View Published Postman Documentation](https://documenter.getpostman.com/view/29635048/2sAYQWLZZA)
+
 ### Disclaimer
 
 As the application is deployed on free versions of hosting platforms, it may take a few minutes (1-4) for the servers to start up. Please wait for the desired outputs.
