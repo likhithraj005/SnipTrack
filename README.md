@@ -55,8 +55,18 @@ PostgreSQL is hosted on the Neon Console.
 
 ### Postman Documentation
 The API's complete documentation is available on Postman. You can explore all endpoints, their request/response formats, and examples for better integration and testing.
+View Published Postman Documentation: https://documenter.getpostman.com/view/29635048/2sAYQWLZZA
 
-[View Published Postman Documentation](https://documenter.getpostman.com/view/29635048/2sAYQWLZZA)
+## Getting Started
+
+### Demo Credentials
+
+For testing the application, you can use the following demo credentials and explore the application:
+
+- **Username**: likhithraj005
+- **Password**: likhithraj005
+
+You can also register with new credentials and log in. However, to save database space (as a free version is being used), it is recommended to use the provided demo credentials whenever possible.
 
 ### Disclaimer
 
